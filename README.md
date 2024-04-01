@@ -11,16 +11,16 @@ You can access the  data to this project [HERE](https://www.youtube.com/watch?v=
 ## DATA PREPARATION AND TRANSFORMATION 
 I took care to include crucial calculations that would support our research when I organized the tables. These computations comprised important metrics such as the total number of workers, the proportion of men and women, the number of workers who are due for promotion and those who are not, the number of workers who are scheduled for layoffs and those who will continue to work, and the age range of workers. Including these computations was a wise decision because it provided us with more methods to interpret the data and extract relevant information. An extensive summary of the number of male and female employees correlated with job level and age group was produced during the visualization process. Using a doughnut chart, the amount of employees who will be promoted, not be promoted, laid off, and remain on service is shown on a card. The calculated number of employee to remain on service and to the retrenched are added as tooltip on the bar chat of the age bracket and total employee to display number of employee that will be retrenched in each age bracket. 
 
-![](Screenshot(9).png)
+![](aa.png)
 
  I included a navigation button after realizing that it could be necessary to address issues with employee performance and transition (promotion and retrenchment). This button display the numbers and  names of employee that will be promoted, retrenched and employee that will get benefit because they are due for both promotion and retrenchment in each job role.
 
- ![](Screenshot(10).png)
+ ![](bb.png)
 
  ## EMPLOYEE PERFORMANCE REPORT
 Employee performance was visualized in order to shed light on a number of factors, including overtime, performance ratings, and work satisfaction. This graphic displays the number of workers who put in extra time, the number of workers who perform well and poorly, and the number of workers who are happy in their positions.
 
-![](Screenshot(11).png)
+![](cc.png)
 
 ## RECOMMENDATION
 Old workers in level 2 have high job satisfaction and very old workers in level 5 have low job satisfaction, improvement should be done on their working conditions and policies.  more in-depth surveys or interviews to gather qualitative insights into the reasons behind satisfaction or dissatisfaction should consider.
