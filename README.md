@@ -15,12 +15,12 @@ I took care to include crucial calculations that would support our research when
 
  I included a navigation button after realizing that it could be necessary to address issues with employee performance and transition (promotion and retrenchment). This button display the numbers and  names of employee that will be promoted, retrenched and employee that will get benefit because they are due for both promotion and retrenchment in each job role.
 
- 
+ ![](Screenshot(10).png)
 
  ## EMPLOYEE PERFORMANCE REPORT
 Employee performance was visualized in order to shed light on a number of factors, including overtime, performance ratings, and work satisfaction. This graphic displays the number of workers who put in extra time, the number of workers who perform well and poorly, and the number of workers who are happy in their positions.
 
-
+![](Screenshot(11).png)
 
 ## RECOMMENDATION
 Old workers in level 2 have high job satisfaction and very old workers in level 5 have low job satisfaction, improvement should be done on their working conditions and policies.  more in-depth surveys or interviews to gather qualitative insights into the reasons behind satisfaction or dissatisfaction should consider.
